@@ -1,0 +1,258 @@
+********************************************************
+Saída do Método main de ProdutorConsumidorDemo quando:
+
+	Delay de Consumidor = 1000
+	Delay de Produtor = 1
+	Repetições de ambos iguais (20)
+	Tamanho Buffer = 5
+
+********************************************************
+------------------------------------------------------------------------
+Pilha Vazia!
+Inserindo Valor: 18
+Valores Buffer:
+  18
+Buffer Vazio!
+Retirando Valor: 18
+Inserindo Valor: 24
+Valores Buffer:
+  24
+Inserindo Valor: 43
+Valores Buffer:
+  24
+  43
+Inserindo Valor: 32
+Valores Buffer:
+  24
+  43
+  32
+Inserindo Valor: 12
+Valores Buffer:
+  24
+  43
+  32
+  12
+Inserindo Valor: 30
+Valores Buffer:
+  24
+  43
+  32
+  12
+  30
+Inserindo Valor: 18
+Pilha Cheia!
+Valores Buffer:
+  24
+  43
+  32
+  12
+Retirando Valor: 30
+Valores Buffer:
+  24
+  43
+  32
+  12
+  18
+Inserindo Valor: 21
+Pilha Cheia!
+Valores Buffer:
+  24
+  43
+  32
+  12
+Valores Buffer:
+  24
+  43
+  32
+  12
+  21
+Retirando Valor: 18
+Inserindo Valor: 35
+Pilha Cheia!
+Valores Buffer:
+  24
+  43
+  32
+  12
+Retirando Valor: 21
+Valores Buffer:
+  24
+  43
+  32
+  12
+  35
+Inserindo Valor: 3
+Pilha Cheia!
+Valores Buffer:
+  24
+  43
+  32
+  12
+Retirando Valor: 35
+Valores Buffer:
+  24
+  43
+  32
+  12
+  3
+Inserindo Valor: 41
+Pilha Cheia!
+Valores Buffer:
+  24
+  43
+  32
+  12
+Retirando Valor: 3
+Valores Buffer:
+  24
+  43
+  32
+  12
+  41
+Inserindo Valor: 15
+Pilha Cheia!
+Valores Buffer:
+  24
+  43
+  32
+  12
+Retirando Valor: 41
+Valores Buffer:
+  24
+  43
+  32
+  12
+  15
+Inserindo Valor: 43
+Pilha Cheia!
+Valores Buffer:
+  24
+  43
+  32
+  12
+Retirando Valor: 15
+Valores Buffer:
+  24
+  43
+  32
+  12
+  43
+Inserindo Valor: 24
+Pilha Cheia!
+Valores Buffer:
+  24
+  43
+  32
+  12
+Valores Buffer:
+  24
+  43
+  32
+  12
+  24
+Retirando Valor: 43
+Inserindo Valor: 42
+Pilha Cheia!
+Valores Buffer:
+  24
+  43
+  32
+  12
+Retirando Valor: 24
+Valores Buffer:
+  24
+  43
+  32
+  12
+  42
+Inserindo Valor: 7
+Pilha Cheia!
+Valores Buffer:
+  24
+  43
+  32
+  12
+Retirando Valor: 42
+Valores Buffer:
+  24
+  43
+  32
+  12
+  7
+Inserindo Valor: 34
+Pilha Cheia!
+Valores Buffer:
+  24
+  43
+  32
+  12
+Valores Buffer:
+  24
+  43
+  32
+  12
+  34
+Retirando Valor: 7
+Inserindo Valor: 33
+Pilha Cheia!
+Valores Buffer:
+  24
+  43
+  32
+  12
+Valores Buffer:
+  24
+  43
+  32
+  12
+  33
+Retirando Valor: 34
+Inserindo Valor: 7
+Pilha Cheia!
+Valores Buffer:
+  24
+  43
+  32
+  12
+Valores Buffer:
+  24
+  43
+  32
+  12
+  7
+Retirando Valor: 33
+Inserindo Valor: 45
+Pilha Cheia!
+Valores Buffer:
+  24
+  43
+  32
+  12
+Valores Buffer:
+  24
+  43
+  32
+  12
+  45
+Retirando Valor: 7
+Valores Buffer:
+  24
+  43
+  32
+  12
+Retirando Valor: 45
+Valores Buffer:
+  24
+  43
+  32
+Retirando Valor: 12
+Valores Buffer:
+  24
+  43
+Retirando Valor: 32
+Valores Buffer:
+  24
+Retirando Valor: 43
+Buffer Vazio!
+Retirando Valor: 24
+------------------------------------------------------------------------

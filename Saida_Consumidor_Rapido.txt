@@ -1,0 +1,131 @@
+********************************************************
+Saída do Método main de ProdutorConsumidorDemo quando:
+
+	Delay de Consumidor = 1
+	Delay de Produtor = 1000
+	Repetições de ambos iguais (20)
+	Tamanho Buffer = 5
+
+********************************************************
+------------------------------------------------------------------------
+Pilha Vazia!
+Inserindo Valor: 25
+Valores Buffer:
+  25
+Buffer Vazio!
+Retirando Valor: 25
+Pilha Vazia!
+Inserindo Valor: 9
+Valores Buffer:
+  9
+Buffer Vazio!
+Retirando Valor: 9
+Pilha Vazia!
+Inserindo Valor: 3
+Valores Buffer:
+  3
+Buffer Vazio!
+Retirando Valor: 3
+Pilha Vazia!
+Inserindo Valor: 37
+Valores Buffer:
+  37
+Buffer Vazio!
+Retirando Valor: 37
+Pilha Vazia!
+Inserindo Valor: 46
+Valores Buffer:
+  46
+Buffer Vazio!
+Retirando Valor: 46
+Pilha Vazia!
+Inserindo Valor: 16
+Valores Buffer:
+  16
+Buffer Vazio!
+Retirando Valor: 16
+Pilha Vazia!
+Inserindo Valor: 3
+Valores Buffer:
+  3
+Buffer Vazio!
+Retirando Valor: 3
+Pilha Vazia!
+Inserindo Valor: 40
+Valores Buffer:
+  40
+Buffer Vazio!
+Retirando Valor: 40
+Pilha Vazia!
+Inserindo Valor: 42
+Valores Buffer:
+  42
+Buffer Vazio!
+Retirando Valor: 42
+Pilha Vazia!
+Inserindo Valor: 35
+Valores Buffer:
+  35
+Buffer Vazio!
+Retirando Valor: 35
+Pilha Vazia!
+Inserindo Valor: 3
+Valores Buffer:
+  3
+Buffer Vazio!
+Retirando Valor: 3
+Pilha Vazia!
+Inserindo Valor: 30
+Valores Buffer:
+  30
+Buffer Vazio!
+Retirando Valor: 30
+Pilha Vazia!
+Inserindo Valor: 30
+Valores Buffer:
+  30
+Buffer Vazio!
+Retirando Valor: 30
+Pilha Vazia!
+Inserindo Valor: 20
+Valores Buffer:
+  20
+Buffer Vazio!
+Retirando Valor: 20
+Pilha Vazia!
+Inserindo Valor: 7
+Valores Buffer:
+  7
+Buffer Vazio!
+Retirando Valor: 7
+Pilha Vazia!
+Inserindo Valor: 26
+Valores Buffer:
+  26
+Buffer Vazio!
+Retirando Valor: 26
+Pilha Vazia!
+Inserindo Valor: 19
+Valores Buffer:
+  19
+Buffer Vazio!
+Retirando Valor: 19
+Pilha Vazia!
+Inserindo Valor: 27
+Valores Buffer:
+  27
+Buffer Vazio!
+Retirando Valor: 27
+Pilha Vazia!
+Inserindo Valor: 17
+Valores Buffer:
+  17
+Buffer Vazio!
+Retirando Valor: 17
+Pilha Vazia!
+Inserindo Valor: 19
+Valores Buffer:
+  19
+Buffer Vazio!
+Retirando Valor: 19
+------------------------------------------------------------------------

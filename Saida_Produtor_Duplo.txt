@@ -1,0 +1,233 @@
+********************************************************
+Saída do Método main de ProdutorConsumidorDemo quando:
+
+	Delay de Consumidor = 1000
+	Delay de Produtor = 1000
+	Repetições de Consumidor = 20
+	Repetições de Produtor1 = 10
+	Repetições de Produtor2 = 10
+	Tamanho Buffer = 5
+
+********************************************************
+------------------------------------------------------------------------
+Pilha Vazia!
+Inserindo Valor: 2
+Inserindo Valor: 24
+Valores Buffer:
+  2
+Valores Buffer:
+  2
+  24
+Valores Buffer:
+  2
+Retirando Valor: 24
+Inserindo Valor: 22
+Buffer Vazio!
+Inserindo Valor: 43
+Retirando Valor: 2
+Valores Buffer:
+  43
+Valores Buffer:
+  43
+  22
+Inserindo Valor: 41
+Valores Buffer:
+  43
+Inserindo Valor: 22
+Valores Buffer:
+  43
+  41
+Retirando Valor: 22
+Valores Buffer:
+  43
+  41
+  22
+Inserindo Valor: 14
+Valores Buffer:
+  43
+  41
+Retirando Valor: 22
+Inserindo Valor: 17
+Valores Buffer:
+  43
+  41
+  14
+Valores Buffer:
+  43
+  41
+  14
+  17
+Inserindo Valor: 8
+Valores Buffer:
+  43
+  41
+  14
+Inserindo Valor: 6
+Valores Buffer:
+  43
+  41
+  14
+  6
+Retirando Valor: 17
+Valores Buffer:
+  43
+  41
+  14
+  6
+  8
+Inserindo Valor: 27
+Valores Buffer:
+  43
+  41
+  14
+  6
+Inserindo Valor: 31
+Valores Buffer:
+  43
+  41
+  14
+  6
+  27
+Retirando Valor: 8
+Pilha Cheia!
+Inserindo Valor: 45
+Valores Buffer:
+  43
+  41
+  14
+  6
+Retirando Valor: 27
+Valores Buffer:
+  43
+  41
+  14
+  6
+  45
+Pilha Cheia!
+Inserindo Valor: 15
+Valores Buffer:
+  43
+  41
+  14
+  6
+Retirando Valor: 45
+Valores Buffer:
+  43
+  41
+  14
+  6
+  15
+Pilha Cheia!
+Inserindo Valor: 34
+Valores Buffer:
+  43
+  41
+  14
+  6
+Valores Buffer:
+  43
+  41
+  14
+  6
+  34
+Pilha Cheia!
+Retirando Valor: 15
+Inserindo Valor: 48
+Valores Buffer:
+  43
+  41
+  14
+  6
+Retirando Valor: 34
+Valores Buffer:
+  43
+  41
+  14
+  6
+  48
+Pilha Cheia!
+Valores Buffer:
+  43
+  41
+  14
+  6
+Retirando Valor: 48
+Valores Buffer:
+  43
+  41
+  14
+  6
+  31
+Inserindo Valor: 27
+Valores Buffer:
+  43
+  41
+  14
+  6
+Retirando Valor: 31
+Valores Buffer:
+  43
+  41
+  14
+  6
+  27
+Inserindo Valor: 27
+Valores Buffer:
+  43
+  41
+  14
+  6
+Retirando Valor: 27
+Valores Buffer:
+  43
+  41
+  14
+  6
+  27
+Inserindo Valor: 5
+Valores Buffer:
+  43
+  41
+  14
+  6
+Retirando Valor: 27
+Valores Buffer:
+  43
+  41
+  14
+  6
+  5
+Inserindo Valor: 1
+Valores Buffer:
+  43
+  41
+  14
+  6
+Retirando Valor: 5
+Valores Buffer:
+  43
+  41
+  14
+  6
+  1
+Valores Buffer:
+  43
+  41
+  14
+  6
+Retirando Valor: 1
+Valores Buffer:
+  43
+  41
+  14
+Retirando Valor: 6
+Valores Buffer:
+  43
+  41
+Retirando Valor: 14
+Valores Buffer:
+  43
+Retirando Valor: 41
+Buffer Vazio!
+Retirando Valor: 43
+------------------------------------------------------------------------

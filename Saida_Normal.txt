@@ -1,0 +1,113 @@
+********************************************************
+Saída do Método main de ProdutorConsumidorDemo quando:
+
+	Delay de Consumidor = 1000
+	Delay de Produtor = 1000
+	Repetições de ambos iguais (20)
+	Tamanho Buffer = 5
+
+********************************************************
+------------------------------------------------------------------------
+Pilha Vazia!
+Inserindo Valor: 0
+Valores Buffer:
+  0
+Buffer Vazio!
+Retirando Valor: 0
+Pilha Vazia!
+Inserindo Valor: 3
+Valores Buffer:
+  3
+Buffer Vazio!
+Retirando Valor: 3
+Inserindo Valor: 37
+Valores Buffer:
+  37
+Buffer Vazio!
+Retirando Valor: 37
+Inserindo Valor: 43
+Valores Buffer:
+  43
+Buffer Vazio!
+Retirando Valor: 43
+Inserindo Valor: 47
+Valores Buffer:
+  47
+Buffer Vazio!
+Retirando Valor: 47
+Inserindo Valor: 5
+Valores Buffer:
+  5
+Buffer Vazio!
+Retirando Valor: 5
+Inserindo Valor: 5
+Valores Buffer:
+  5
+Buffer Vazio!
+Retirando Valor: 5
+Inserindo Valor: 15
+Valores Buffer:
+  15
+Buffer Vazio!
+Retirando Valor: 15
+Inserindo Valor: 47
+Valores Buffer:
+  47
+Buffer Vazio!
+Retirando Valor: 47
+Inserindo Valor: 39
+Valores Buffer:
+  39
+Buffer Vazio!
+Retirando Valor: 39
+Inserindo Valor: 42
+Valores Buffer:
+  42
+Buffer Vazio!
+Retirando Valor: 42
+Inserindo Valor: 22
+Valores Buffer:
+  22
+Buffer Vazio!
+Retirando Valor: 22
+Inserindo Valor: 15
+Valores Buffer:
+  15
+Buffer Vazio!
+Retirando Valor: 15
+Inserindo Valor: 15
+Valores Buffer:
+  15
+Buffer Vazio!
+Retirando Valor: 15
+Inserindo Valor: 0
+Valores Buffer:
+  0
+Buffer Vazio!
+Retirando Valor: 0
+Inserindo Valor: 44
+Valores Buffer:
+  44
+Buffer Vazio!
+Retirando Valor: 44
+Inserindo Valor: 17
+Valores Buffer:
+  17
+Buffer Vazio!
+Retirando Valor: 17
+Inserindo Valor: 17
+Valores Buffer:
+  17
+Buffer Vazio!
+Retirando Valor: 17
+Inserindo Valor: 28
+Valores Buffer:
+  28
+Buffer Vazio!
+Retirando Valor: 28
+Inserindo Valor: 20
+Valores Buffer:
+  20
+Buffer Vazio!
+Retirando Valor: 20
+------------------------------------------------------------------------
